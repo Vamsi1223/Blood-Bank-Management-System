@@ -8,3 +8,4 @@ blood donors, different blood groups available in each blood bank and help them 
 The Blood Bank Management System (BBMS) is an application that stores, processes, retrieves, and analyzes data about blood bank administration. It also supervises blood inventory management and other blood bank-related activities.
 
 The major goal of the blood bank management system is to keep track of blood, donors, blood groups, blood banks, and stock information. It keeps track of all information concerning blood, blood cells, stocks, and blood. Because the project is all done at the administrative level, only the administrator can see it.
+
