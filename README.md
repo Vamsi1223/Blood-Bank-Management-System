@@ -13,10 +13,15 @@ user of this system can key in the result of blood test that has been conducted 
 
 # Information about tables
 'Donor' will be person who donates the blood. It will contain information such as name,age,gender,contact,blood group, etc.
+
 'Patient' will be person who will receive the blood this will have the id , name , gender, blood type, age, status.
+
 'Blood_bank' has the data of blood type, DID, Address, Phno, Issues.
+
 'Hospital' consists of HNO, Name, Phno, Address.
+
 'Requests' consists of Rid, Blood type, Quantity.
+
 'Blood_Bank_Manager' consists of Emp id, Name, Phno, Email_id.
 
 # Understanding Normalization
